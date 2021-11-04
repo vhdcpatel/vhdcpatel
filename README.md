@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vraj patel @vhdcpatel
 - 👀 I’m interested in data analysis and data science.
-- 🌱 I’m currently learning python,sql,r, owerBI..
+- 🌱 I’m currently learning Python,sql,r, PowerBI..
 - 💞️ I’m looking to collaborate on data scince related projects
 - 📫 How to reach me Twitter or IG as vhdcpatel
 
